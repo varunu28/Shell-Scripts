@@ -11,7 +11,8 @@ jobdetails3.err
 jobdetails4.err
 
 Results after running the script for HDFS location /user/testlogs
-Note: The target message is present only in jobdetails4.err so it would be in the output along with the correct line number i.e. 4
+Note: The target message is present only in jobdetails4.err so it would be in the output along with the 
+correct line number i.e. 4
 
 Result:
 /user/testlogs/jobdetails4.err
